@@ -53,6 +53,12 @@
   "resolutions": {
     "@coinbase/cdp-sdk": "1.52.0"
   },
+  "overrides": {
+    "@coinbase/cdp-sdk": "1.52.0",
+    "@base-org/account": {
+      "@coinbase/cdp-sdk": "1.52.0"
+    }
+  },
   "devDependencies": {
     "husky": "~9.1.6",
     "lint-staged": "~13.2.2"
