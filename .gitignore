@@ -22,5 +22,3 @@ node_modules
 # cli
 dist
 
-# GitHub Actions workflow (needs workflow scope token to push)
-.github/workflows/
