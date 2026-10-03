@@ -7,7 +7,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const deployedContracts = {
   11155111: {
     CrowdFund: {
-      address: "0xf9b05ef2c9fa3129de3f6bd4de471ccbb9781b15",
+      address: "0xa97ab8eacc5570a48b23365ce39c792b0c569298",
       abi: [
         {
           inputs: [
@@ -192,10 +192,10 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 11831207,
+      deployedOnBlock: 11835181,
     },
     FundingRecipient: {
-      address: "0x6f0cea288f7c771a3c597b0e4421eaa78fbb5950",
+      address: "0xa78f1fe800f4fbe8d6d8b4892e672977915cacbe",
       abi: [
         {
           inputs: [],
@@ -219,7 +219,7 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 11831206,
+      deployedOnBlock: 11835180,
     },
   },
 } as const;
